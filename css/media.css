@@ -1,0 +1,154 @@
+@media (min-width:768px){
+    .counter-circle{
+        left: 18%;
+    }
+    .portfolio-item{
+        margin: 0px -30px;
+    }
+    .caption-circle{
+        right: 10%;
+    }
+    .card-badge{
+        
+        top: -8%;
+        left: 30%;
+    }
+    .blog-time{ 
+        left: 60%;
+    }
+    .footer-button{
+        left: 12%;
+    }
+    .slider-caption{
+        top: 15%;
+        left: 15%;
+         
+      }
+      .image-circle{
+          
+          left: 35%;
+          width: 150px;
+          height: 150px;
+          padding: 0rem 0rem 0rem;
+      
+      
+      }
+      .image-ellipse{
+       
+        left: 38%;
+        top: -8%;
+        width: 130px;
+        height: 130px;
+      
+    
+    
+    }
+    .copy-right{
+        left: 32%;
+    
+    }
+}
+
+@media (min-width:992px){
+    .counter-circle{
+        left: 25%;
+    }
+    .portfolio-item{
+        margin: 0px -30px;
+    }
+    .caption-circle{
+        right: 10%;
+    }
+    .card-badge{ 
+        top: -10%;
+        left: 35%;
+    }
+    .blog-time{ 
+        left: 60%;
+    }
+    .footer-button{
+        left: 15%;
+    }
+    .slider-caption{
+          top: 15%;
+          left: 15%;
+           
+        }
+        .image-circle{
+            
+            left: 38%;
+            width: 150px;
+            height: 150px;
+            padding: 0rem 0rem 0rem;
+        
+        
+        }
+        .image-ellipse{
+            position: relative;
+            left: 38%;
+            top: -8%;
+            width: 130px;
+            height: 130px;
+            padding: 0rem 0rem 0rem;
+        
+        
+        }
+        .copy-right{
+            left: 35%;
+        
+        }
+}
+@media (min-width:1200px){
+    .counter-circle{
+        left: 33%;
+    }
+    .title-box::after{
+        left: 48%;
+     }
+     .portfolio-item{
+        margin: 0px -30px;
+    }
+    .caption-circle{
+        right: 12%;
+    }
+    .card-badge{
+        
+        top: -10%;
+        left: 35%;
+    }
+    .blog-time{ 
+        left: 70%;
+    }
+    .footer-button{
+        left: 20%;
+    }
+    .slider-caption{
+        top: 25%;
+        left: 16%;
+         
+      }
+      .image-circle{
+          
+          left: 40%;
+          width: 170px;
+          height: 170px;
+          padding: 0rem 0rem 0rem;
+      
+      
+      }
+      .image-ellipse{
+      
+        left: 40%;
+        top: -8%;
+        width: 150px;
+        height: 150px;
+        
+    
+    
+    }
+    .copy-right{
+        left: 38%;
+    
+    }
+}
+
